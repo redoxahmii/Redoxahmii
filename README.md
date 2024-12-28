@@ -1,8 +1,8 @@
 ## Hey there, I'm Redox! 👋
 
-- I’m a software engineer who believes in writing code that is easy enough to plug out and does not need any refactoring **(i hate devs with no knowledge of how implementation works and only know fancy UIs).**<br>
+- Software engineer who believes in writing modular code, making it easy to integrate, remove and debug.
 - Looks don't matter what matters is on the inside **(yes it works for development too "kinda").**<br>
-- My tool of choice is **Neovim btw**—where speed meets precision and of course i have spent most of my time in my configuration.<br>
+- My tool of choice is **Neovim btw**—and of course i have spent most of my time in my configuration.<br>
  
 
 ### 📊 GitHub Stats:
